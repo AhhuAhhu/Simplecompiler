@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1530248933 source:f:\complier\finaltest\calculate.tab.c
+	<stdio.h>
+	<stdlib.h>
+	"AsTree.h"
+	<stddef.h>
+	<libintl.h>
+	<alloca.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+
+1530248522 f:\complier\finaltest\astree.h
+
+1530252262 source:f:\complier\finaltest\func.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<math.h>
+	"AsTree.h"
+
+1530248730 source:f:\complier\finaltest\lex.yy.c
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<inttypes.h>
+	"AsTree.h"
+	"calculate.tab.h"
+	<unistd.h>
+
+1530248933 f:\complier\finaltest\calculate.tab.h
+
